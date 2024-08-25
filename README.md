@@ -1,1 +1,1 @@
-# petshop_api_test_project
+# petstore_api_test_project
